@@ -1,4 +1,4 @@
-import Grid from "./Grid.js";
+
 import Player from "./Player.js";
 import GridPosition from "./GridPosition.js";
 
